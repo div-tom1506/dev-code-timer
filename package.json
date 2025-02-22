@@ -18,7 +18,7 @@
     "commands": [
       {
         "command": "devCodeTimer.showTime",
-        "title": "Show Time Report"
+        "title": "dev code timer"
       }
     ]
   },

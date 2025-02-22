@@ -17,19 +17,19 @@ Dev Code Timer is a Visual Studio Code extension that helps developers track the
 ## Installation
 
 Clone the repository:
-``` bash
-git clone https://github.com/div-tom1506/dev-code-timer.git
-cd dev-code-timer
-```
+
+    git clone https://github.com/div-tom1506/dev-code-timer.git
+    cd dev-code-timer
+
 Open the project in VS Code:
-```
-code .
-```
+
+    code .
+
 Install dependencies and compile:
-```
-npm install
-npm run compile
-```
+
+    npm install
+    npm run compile
+
 Run the extension in Development Mode:
 Open the Debug Panel (`Ctrl + Shift + D`)
 Select "Run Extension" and press F5
